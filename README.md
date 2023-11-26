@@ -1,2 +1,2 @@
-# codesoft-task-2
-this is my task-2 during
+# codesoft-task-1
+this is my task-1 during
